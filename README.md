@@ -92,10 +92,21 @@
 
 ---
 
+---
+
 ## 🛠️ Skills
 
-- **Programming Languages**: `Java`, `Python`, `PHP`, `Go`, `C/C++`, `JavaScript`  
-- **Frameworks & Libraries**: `Spring Boot`, `Symfony`, `Laravel`, `Flask`, `GraphQL`  
-- **Tools & Platforms**: `AWS`, `Docker`, `Kubernetes`, `RabbitMQ`, `GitHub Actions`  
-- **Database Management**: `PostgreSQL`, `MySQL`, `MariaDB`, `Redis`, `Solr`  
-- **Architecture & Methodologies**: `Microservices`, `Event-Driven Systems`, `REST APIs`, `Serverless Computing`
+### Programming Languages
+`Java` · `Python` · `PHP` · `Go` · `C/C++` · `JavaScript`
+
+### Frameworks & Libraries
+`Spring Boot` · `Symfony` · `Laravel` · `Flask` · `GraphQL`
+
+### Tools & Platforms
+`AWS` · `Docker` · `Kubernetes` · `RabbitMQ` · `GitHub Actions`
+
+### Database Management
+`PostgreSQL` · `MySQL` · `MariaDB` · `Redis` · `Solr`
+
+### Architecture & Methodologies
+`Microservices` · `Event-Driven Systems` · `REST APIs` · `Serverless Computing`
