@@ -16,10 +16,10 @@
 - 🛠️ Automated deployment and monitoring for 12 critical legacy backend services, boosting uptime and release efficiency.
 - 👩‍🏫 Mentored teammates through knowledge sharing, code reviews, and pair programming.
 
-**💻 Technical Stack**:  
+** Technical Stack**:  
 `PHP`, `Symfony`, `Java`, `Spring Boot`, `AWS (Fargate, RDS, Lambda, SQS, SNS, S3)`, `Datadog`, `Swagger`, `PostgreSQL`, `MySQL`, `PHPUnit`, `JUnit`, `Docker`, `RabbitMQ`, `GitHub Actions`  
 
-**🏗️ Functional Environment**:  
+** Functional Environment**:  
 `Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
 
 
@@ -35,7 +35,7 @@
 **💻 Technical Stack**:  
 `PHP`, `Go`, `Python`, `Laravel`, `Flask`, `GraphQL`, `Solr`, `Redis`, `PostgreSQL`, `Docker`, `AWS (ECS, RDS, S3)`, `Kubernetes`, `Swagger`  
 
-**🏗️ Functional Environment**:  
+** Functional Environment**:  
 `Linux Software`, `Microservices`, `REST API`, `AI Applications`, `Agile Practices`  
 
 
@@ -50,7 +50,7 @@
 **💻 Technical Stack**:  
 `Python`, `PHP`, `C/C++`, `Flask`, `Android`, `MariaDB`, `Docker`, `SAP`  
 
-**🏗️ Functional Environment**:  
+** Functional Environment**:  
 `Linux Software`, `IoT`, `ERP Systems`, `REST APIs`, `Web and Desktop Applications`  
 
 
