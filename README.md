@@ -15,15 +15,17 @@ Passionate Software Engineer with expertise in distributed systems, backend deve
 - **Frameworks:** Flask, React
 
 ## Experience
+
 ### Statista GmbH
-*Backend Engineer* (2018 - 2022)
-- Reduced processing time for recommendation systems from 7 days to 19 hours.
-- Migrated legacy systems to a modern microservices-based CMS.
+*Backend Engineer* (2018 - 2022)  
+- 🚀 Reduced processing time for recommendation systems from **7 days** to **19 hours**.
+- 🛠️ Migrated legacy systems to a modern **microservices-based CMS**.
+- 🔍 Integrated **Datadog** monitoring for proactive issue resolution.
 
 ### Travanto Ferienwohnungen
-*Software Engineer* (2016 - 2018)
-- Integrated APIs for platforms like Airbnb and Booking.com.
-- Implemented event-driven updates to reduce latency.
+*Software Engineer* (2016 - 2018)  
+- 🤝 Integrated APIs for platforms like **Airbnb** and **Booking.com**.
+- ⚡ Implemented **event-driven updates**, reducing latency by **30%**.
 
 ## Education
 Bachelor of Science in Computer Science  
