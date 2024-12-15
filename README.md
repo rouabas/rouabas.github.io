@@ -22,7 +22,7 @@
 **🏗️ Functional Environment**:  
 `Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
 
----
+--
 
 ### **Travanto Ferienwohnungen GmbH**
 *Hamburg, Germany | Senior Software Developer*  
@@ -89,10 +89,6 @@
 - **English**: C1 Advanced  
 - **French**: C1 Advanced  
 - **German**: A2 Elementary  
-
----
-
----
 
 ---
 
