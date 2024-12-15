@@ -4,9 +4,15 @@
 Passionate Software Engineer with expertise in distributed systems, backend development, and scalable architectures. Experienced in Python, Go, and DevOps.
 
 ## Skills
-- **Languages:** Python, Go, Java, JavaScript
-- **Tools:** Docker, Kubernetes, GitHub Actions, Datadog
-- **Frameworks:** Flask, React, Spring Boot
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square)
+![Go](https://img.shields.io/badge/Go-Intermediate-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Advanced-lightblue?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-Experienced-orange?style=flat-square)
+
+- **Languages:** Python, Go, Java
+- **DevOps Tools:** Docker, Kubernetes, GitHub Actions
+- **Frameworks:** Flask, React
 
 ## Experience
 ### Statista GmbH
