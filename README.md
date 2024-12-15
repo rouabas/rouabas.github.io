@@ -86,7 +86,19 @@
 - **German**: A2 Elementary  
 
 
-## 🛠️ Skills
+## Skills 1
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square)
+![Go](https://img.shields.io/badge/Go-Intermediate-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Advanced-lightblue?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI/CD-Experienced-orange?style=flat-square)
+
+- **Languages:** Python, Go, Java
+- **DevOps Tools:** Docker, Kubernetes, GitHub Actions
+- **Frameworks:** Flask, React
+
+
+## 🛠️ Skills 2
 
 - **Programming Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
