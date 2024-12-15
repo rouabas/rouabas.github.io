@@ -17,10 +17,10 @@
 - 👩‍🏫 Mentored teammates through knowledge sharing, code reviews, and pair programming.
 
 **💻 Technical Stack**:  
-PHP, Symfony, Java, Spring Boot, AWS (Fargate, RDS, Lambda, SQS, SNS, S3), Datadog, Swagger, PostgreSQL, MySQL, PHPUnit, JUnit, Docker, RabbitMQ, GitHub Actions.  
+`PHP`, `Symfony`, `Java`, `Spring Boot`, `AWS (Fargate, RDS, Lambda, SQS, SNS, S3)`, `Datadog`, `Swagger`, `PostgreSQL`, `MySQL`, `PHPUnit`, `JUnit`, `Docker`, `RabbitMQ`, `GitHub Actions`  
 
 **🏗️ Functional Environment**:  
-Microservices, Distributed Systems, Event-Driven Architecture, REST API, Monolith, CI/CD Pipelines, Serverless Computing.
+`Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
 
 ---
 
@@ -34,10 +34,10 @@ Microservices, Distributed Systems, Event-Driven Architecture, REST API, Monolit
 - 🚀 Streamlined CI/CD pipelines for 4 services, reducing deployment time.
 
 **💻 Technical Stack**:  
-PHP, Go, Python, Laravel, Flask, GraphQL, Solr, Redis, PostgreSQL, Docker, AWS (ECS, RDS, S3), Kubernetes, Swagger.  
+`PHP`, `Go`, `Python`, `Laravel`, `Flask`, `GraphQL`, `Solr`, `Redis`, `PostgreSQL`, `Docker`, `AWS (ECS, RDS, S3)`, `Kubernetes`, `Swagger`  
 
 **🏗️ Functional Environment**:  
-Linux Software, Microservices, REST API, AI Applications, Agile Practices.
+`Linux Software`, `Microservices`, `REST API`, `AI Applications`, `Agile Practices`  
 
 ---
 
@@ -50,10 +50,10 @@ Linux Software, Microservices, REST API, AI Applications, Agile Practices.
 - 🤝 Integrated SAP HCM for SPA Condor Electronics, streamlining HR operations for 9K employees.
 
 **💻 Technical Stack**:  
-Python, PHP, C/C++, Flask, Android, MariaDB, Docker, SAP.  
+`Python`, `PHP`, `C/C++`, `Flask`, `Android`, `MariaDB`, `Docker`, `SAP`  
 
 **🏗️ Functional Environment**:  
-Linux Software, IoT, ERP Systems, REST APIs, Web and Desktop Applications.
+`Linux Software`, `IoT`, `ERP Systems`, `REST APIs`, `Web and Desktop Applications`  
 
 ---
 
@@ -66,7 +66,7 @@ Linux Software, IoT, ERP Systems, REST APIs, Web and Desktop Applications.
 - ⚽ Managed a sports news website, enhancing UI/UX and optimizing SEO.
 
 **💻 Technical Stack**:  
-Python, PHP, Flask, RestrictedPython, WordPress, HTML, CSS, JavaScript.  
+`Python`, `PHP`, `Flask`, `RestrictedPython`, `WordPress`, `HTML`, `CSS`, `JavaScript`  
 
 ---
 
@@ -91,3 +91,11 @@ Python, PHP, Flask, RestrictedPython, WordPress, HTML, CSS, JavaScript.
 - **German**: A2 Elementary  
 
 ---
+
+## 🛠️ Skills
+
+- **Programming Languages**: `Java`, `Python`, `PHP`, `Go`, `C/C++`, `JavaScript`  
+- **Frameworks & Libraries**: `Spring Boot`, `Symfony`, `Laravel`, `Flask`, `GraphQL`  
+- **Tools & Platforms**: `AWS`, `Docker`, `Kubernetes`, `RabbitMQ`, `GitHub Actions`  
+- **Database Management**: `PostgreSQL`, `MySQL`, `MariaDB`, `Redis`, `Solr`  
+- **Architecture & Methodologies**: `Microservices`, `Event-Driven Systems`, `REST APIs`, `Serverless Computing`
