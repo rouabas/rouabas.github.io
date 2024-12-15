@@ -5,7 +5,7 @@
 🔗 [linkedin.com/in/rouabasset](https://de.linkedin.com/in/rouabasset)  
 
 
-## 👨‍💻 Experience
+## Experience
 
 
 ### **Statista GmbH**
@@ -16,10 +16,10 @@
 - 🛠️ Automated deployment and monitoring for 12 critical legacy backend services, boosting uptime and release efficiency.
 - 👩‍🏫 Mentored teammates through knowledge sharing, code reviews, and pair programming.
 
-** Technical Stack**:  
+**Technical Stack**:  
 `PHP`, `Symfony`, `Java`, `Spring Boot`, `AWS (Fargate, RDS, Lambda, SQS, SNS, S3)`, `Datadog`, `Swagger`, `PostgreSQL`, `MySQL`, `PHPUnit`, `JUnit`, `Docker`, `RabbitMQ`, `GitHub Actions`  
 
-** Functional Environment**:  
+**Functional Environment**:  
 `Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
 
 
@@ -32,10 +32,10 @@
 - 🤖 Deployed a machine learning service for image classification, boosting content quality.
 - 🚀 Streamlined CI/CD pipelines for 4 services, reducing deployment time.
 
-**💻 Technical Stack**:  
+**Technical Stack**:  
 `PHP`, `Go`, `Python`, `Laravel`, `Flask`, `GraphQL`, `Solr`, `Redis`, `PostgreSQL`, `Docker`, `AWS (ECS, RDS, S3)`, `Kubernetes`, `Swagger`  
 
-** Functional Environment**:  
+**Functional Environment**:  
 `Linux Software`, `Microservices`, `REST API`, `AI Applications`, `Agile Practices`  
 
 
@@ -47,10 +47,10 @@
 - ⛽ Developed a connected gauge system for fuel monitoring in gas stations, winning the **Algeria National Innovation Prize**.
 - 🤝 Integrated SAP HCM for SPA Condor Electronics, streamlining HR operations for 9K employees.
 
-**💻 Technical Stack**:  
+**Technical Stack**:  
 `Python`, `PHP`, `C/C++`, `Flask`, `Android`, `MariaDB`, `Docker`, `SAP`  
 
-** Functional Environment**:  
+**Functional Environment**:  
 `Linux Software`, `IoT`, `ERP Systems`, `REST APIs`, `Web and Desktop Applications`  
 
 
@@ -62,11 +62,11 @@
 - 🛡️ Created automated Python tools, including web crawlers and a SQL injection scanner.
 - ⚽ Managed a sports news website, enhancing UI/UX and optimizing SEO.
 
-**💻 Technical Stack**:  
+**Technical Stack**:  
 `Python`, `PHP`, `Flask`, `RestrictedPython`, `WordPress`, `HTML`, `CSS`, `JavaScript`  
 
 
-## 🎓 Education
+## Education
 
 - **Master’s Degree – Computer Science**  
   *Mohamed Boudiaf University of M'Sila, Algeria*  
@@ -78,7 +78,7 @@
   *Sep 2010 – Sep 2013*  
 
 
-## 🌍 Languages
+## Languages
 
 - **Arabic**: Native Proficiency  
 - **English**: C1 Advanced  
@@ -98,7 +98,7 @@
 - **Frameworks:** Flask, React
 
 
-## 🛠️ Skills 2
+## Skills 2
 
 - **Programming Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
