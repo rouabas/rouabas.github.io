@@ -4,9 +4,9 @@
 📧 [rouabasset@gmail.com](mailto:rouabasset@gmail.com) | 📱 +49 160 637 5163  
 🔗 [linkedin.com/in/rouabasset](https://de.linkedin.com/in/rouabasset)  
 
----
 
 ## 👨‍💻 Experience
+
 
 ### **Statista GmbH**
 *Hamburg, Germany | Senior Software Engineer*  
@@ -22,7 +22,6 @@
 **🏗️ Functional Environment**:  
 `Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
 
-----
 
 ### **Travanto Ferienwohnungen GmbH**
 *Hamburg, Germany | Senior Software Developer*  
@@ -39,7 +38,6 @@
 **🏗️ Functional Environment**:  
 `Linux Software`, `Microservices`, `REST API`, `AI Applications`, `Agile Practices`  
 
----
 
 ### **ETS. Moli Technologies**
 *Bordj Bou Arreridj, Algeria | Software Engineer*  
@@ -55,7 +53,6 @@
 **🏗️ Functional Environment**:  
 `Linux Software`, `IoT`, `ERP Systems`, `REST APIs`, `Web and Desktop Applications`  
 
----
 
 ### **Freelancer**
 *Bordj Bou Arreridj, Algeria | Full Stack Developer*  
@@ -68,7 +65,6 @@
 **💻 Technical Stack**:  
 `Python`, `PHP`, `Flask`, `RestrictedPython`, `WordPress`, `HTML`, `CSS`, `JavaScript`  
 
----
 
 ## 🎓 Education
 
@@ -81,7 +77,6 @@
   *Mohamed Boudiaf University of M'Sila, Algeria*  
   *Sep 2010 – Sep 2013*  
 
----
 
 ## 🌍 Languages
 
@@ -90,7 +85,6 @@
 - **French**: C1 Advanced  
 - **German**: A2 Elementary  
 
----
 
 ## 🛠️ Skills
 
