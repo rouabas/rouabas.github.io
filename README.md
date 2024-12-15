@@ -65,7 +65,7 @@
 **Technical Stack**:  
 `Python`, `PHP`, `Flask`, `RestrictedPython`, `WordPress`, `HTML`, `CSS`, `JavaScript`  
 
-
+___
 ## Education
 
 - **Master’s Degree – Computer Science**  
@@ -77,7 +77,7 @@
   *Mohamed Boudiaf University of M'Sila, Algeria*  
   *Sep 2010 – Sep 2013*  
 
-
+***
 ## Languages
 
 - **Arabic**: Native Proficiency  
@@ -85,7 +85,7 @@
 - **French**: C1 Advanced  
 - **German**: A2 Elementary  
 
-
+---
 ## Skills 1
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square)
