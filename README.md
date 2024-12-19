@@ -1,89 +1,162 @@
-<div align="center">
-  
-# 👨‍💻 Abdelbasset Rouabah
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdelbasset Rouabah - Senior Backend Software Engineer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css">
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Backend+Software+Engineer;AWS+%7C+Spring+Boot+%7C+Symfony+Expert;Building+Scalable+Distributed+Systems)](https://git.io/typing-svg)
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
 
-[![Email](https://img.shields.io/badge/Email-rouabasset%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rouabasset@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rouabasset-blue?style=flat-square&logo=linkedin)](https://de.linkedin.com/in/rouabasset)
-[![Phone](https://img.shields.io/badge/Phone-%2B49%20160%20637%205163-green?style=flat-square&logo=phone)](tel:+491606375163)
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+        }
 
-</div>
+        .markdown-body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+        }
 
-## 🎯 Professional Summary
-Senior Software Engineer with extensive experience in building scalable distributed systems and microservices architectures. Specialized in backend development with a strong focus on AWS, PHP/Symfony, and Java/Spring Boot ecosystems. Proven track record of optimizing systems and mentoring teams.
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3,
+        .markdown-body h4,
+        .markdown-body h5,
+        .markdown-body h6 {
+            color: #c9d1d9;
+            border-bottom: 1px solid #30363d;
+        }
 
-## 🛠️ Technical Expertise
+        .markdown-body a {
+            color: #58a6ff;
+        }
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-</details>
+        .markdown-body hr {
+            background-color: #30363d;
+        }
 
-<details open>
-<summary><b>🚀 Frameworks & Technologies</b></summary>
-<br>
+        .markdown-body blockquote {
+            color: #8b949e;
+            border-left: 0.25em solid #30363d;
+        }
 
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-</details>
+        .markdown-body code {
+            background-color: #161b22;
+        }
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
+        .markdown-body img {
+            background-color: transparent;
+        }
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-</details>
+        .center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <article class="markdown-body">
+        <div class="center">
+            <h1>👨‍💻 Abdelbasset Rouabah</h1>
 
-## 💼 Professional Experience
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Backend+Software+Engineer;AWS+%7C+Spring+Boot+%7C+Symfony+Expert;Building+Scalable+Distributed+Systems" alt="Typing SVG">
 
-### 🚀 **Senior Software Engineer @ Statista GmbH**
-<sub>Hamburg, Germany | May 2022 – Present</sub>
+            <p>
+                <a href="mailto:rouabasset@gmail.com">
+                    <img src="https://img.shields.io/badge/Email-rouabasset%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+                </a>
+                <a href="https://de.linkedin.com/in/rouabasset">
+                    <img src="https://img.shields.io/badge/LinkedIn-rouabasset-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+                </a>
+                <a href="tel:+491606375163">
+                    <img src="https://img.shields.io/badge/Phone-%2B49%20160%20637%205163-green?style=flat-square&logo=phone" alt="Phone">
+                </a>
+            </p>
+        </div>
 
-- 🎯 Achieved **86.8%** performance improvement in recommendation system processing
-- 🔄 Modernized legacy systems to microservices architecture
-- 🚀 Automated deployment for 12 critical backend services
-- 👥 Led technical mentorship initiatives
+        <h2>🎯 Professional Summary</h2>
+        <p>Senior Software Engineer with extensive experience in building scalable distributed systems and microservices architectures. Specialized in backend development with a strong focus on AWS, PHP/Symfony, and Java/Spring Boot ecosystems. Proven track record of optimizing systems and mentoring teams.</p>
 
-### 🚀 **Senior Software Developer @ Travanto Ferienwohnungen GmbH**
-<sub>Hamburg, Germany | May 2019 – Apr 2022</sub>
+        <h2>🛠️ Technical Expertise</h2>
+        
+        <h3>💻 Programming Languages</h3>
+        <p>
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+            <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+        </p>
 
-- 📈 Increased reservations by **9%** through platform API integrations
-- 🏆 Achieved Premier Partner status with Booking.com
-- 🤖 Implemented ML-based image classification system
-- 🔄 Enhanced CI/CD pipelines for multiple services
+        <h3>🚀 Frameworks & Technologies</h3>
+        <p>
+            <img src="https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+        </p>
 
-### 🚀 **Software Engineer @ ETS. Moli Technologies**
-<sub>Bordj Bou Arreridj, Algeria | Feb 2016 – Apr 2019</sub>
+        <h3>☁️ Cloud & DevOps</h3>
+        <p>
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+        </p>
 
-- 🏆 **MIT Enterprise Forum Pan Arab Competition** Semi-finalist with RadiologyOne
-- 🏅 Won **Algeria National Innovation Prize** for IoT fuel monitoring system
-- 💼 Successfully integrated SAP HCM for 9K+ employees
+        <h2>💼 Professional Experience</h2>
 
-## 📚 Education & Research
+        <h3>🚀 Senior Software Engineer @ Statista GmbH</h3>
+        <p><em>Hamburg, Germany | May 2022 – Present</em></p>
+        <ul>
+            <li>🎯 Achieved <strong>86.8%</strong> performance improvement in recommendation system processing</li>
+            <li>🔄 Modernized legacy systems to microservices architecture</li>
+            <li>🚀 Automated deployment for 12 critical backend services</li>
+            <li>👥 Led technical mentorship initiatives</li>
+        </ul>
 
-<details>
-<summary><b>🎓 Academic Qualifications</b></summary>
-<br>
+        <h3>🚀 Senior Software Developer @ Travanto Ferienwohnungen GmbH</h3>
+        <p><em>Hamburg, Germany | May 2019 – Apr 2022</em></p>
+        <ul>
+            <li>📈 Increased reservations by <strong>9%</strong> through platform API integrations</li>
+            <li>🏆 Achieved Premier Partner status with Booking.com</li>
+            <li>🤖 Implemented ML-based image classification system</li>
+            <li>🔄 Enhanced CI/CD pipelines for multiple services</li>
+        </ul>
 
-- **Master's in Computer Science** - Mohamed Boudiaf University (2013-2015)
-  - [Published Research Paper](https://ieeexplore.ieee.org/document/7359576)
-- **Bachelor's in Computer Science** - Mohamed Boudiaf University (2010-2013)
-</details>
+        <h3>🚀 Software Engineer @ ETS. Moli Technologies</h3>
+        <p><em>Bordj Bou Arreridj, Algeria | Feb 2016 – Apr 2019</em></p>
+        <ul>
+            <li>🏆 <strong>MIT Enterprise Forum Pan Arab Competition</strong> Semi-finalist with RadiologyOne</li>
+            <li>🏅 Won <strong>Algeria National Innovation Prize</strong> for IoT fuel monitoring system</li>
+            <li>💼 Successfully integrated SAP HCM for 9K+ employees</li>
+        </ul>
 
-## 🌐 Languages
+        <h2>🌐 Languages</h2>
+        <ul>
+            <li>🌟 Arabic (Native)</li>
+            <li>🇬🇧 English (C1 Advanced)</li>
+            <li>🇫🇷 French (C1 Advanced)</li>
+            <li>🇩🇪 German (A2 Elementary)</li>
+        </ul>
 
-- 🌟 Arabic (Native)
-- 🇬🇧 English (C1 Advanced)
-- 🇫🇷 French (C1 Advanced)
-- 🇩🇪 German (A2 Elementary)
+        <div class="center">
+            <h3>📊 GitHub Stats</h3>
+            <img src="https://github-readme-stats.vercel.app/api?username=rouabas&show_icons=true&theme=radical" alt="GitHub Stats">
+            <br><br>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=rouabas&theme=radical" alt="GitHub Streak">
+        </div>
+    </article>
+</body>
+</html>
