@@ -15,6 +15,7 @@ Senior Software Engineer with extensive experience in building scalable distribu
 
 ## 🛠️ Technical Expertise
 
+<details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
   
@@ -22,6 +23,7 @@ Senior Software Engineer with extensive experience in building scalable distribu
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</details>
 
 <details open>
 <summary><b>🚀 Frameworks & Technologies</b></summary>
@@ -70,7 +72,7 @@ Senior Software Engineer with extensive experience in building scalable distribu
 
 ## 📚 Education & Research
 
-<details>
+<details open>
 <summary><b>🎓 Academic Qualifications</b></summary>
 <br>
 
