@@ -2,7 +2,7 @@
   
 # 👨‍💻 Abdelbasset Rouabah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Backend+Software+Engineer;AWS+%7C+Spring+Boot+%7C+Symfony+Expert;Building+Scalable+Distributed+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Backend+Software+Engineer;AWS+%7C+Java+%7C+PHP;Building+Scalable+Distributed+Systems)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-rouabasset%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rouabasset@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rouabasset-blue?style=flat-square&logo=linkedin)](https://de.linkedin.com/in/rouabasset)
