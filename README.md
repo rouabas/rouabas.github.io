@@ -1,84 +1,101 @@
-# Abdelbasset Rouabah
+<div align="center">
+  
+# 👨‍💻 Abdelbasset Rouabah
 
-**Senior Backend Software Engineer**  
-📧 [rouabasset@gmail.com](mailto:rouabasset@gmail.com) | 📱 +49 160 637 5163  | 🔗 [linkedin.com/in/rouabasset](https://de.linkedin.com/in/rouabasset)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Backend+Software+Engineer;AWS+%7C+Spring+Boot+%7C+Symfony+Expert;Building+Scalable+Distributed+Systems)](https://git.io/typing-svg)
 
+[![Email](https://img.shields.io/badge/Email-rouabasset%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:rouabasset@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rouabasset-blue?style=flat-square&logo=linkedin)](https://de.linkedin.com/in/rouabasset)
+[![Phone](https://img.shields.io/badge/Phone-%2B49%20160%20637%205163-green?style=flat-square&logo=phone)](tel:+491606375163)
 
-## 🛠️ Experience
+</div>
 
-### 🚀 **Statista GmbH**
-*Hamburg, Germany | Senior Software Engineer*  
-**May 2022 – Present**  
-- Optimized a recommendation system connecting related statistics on statista.com, cutting processing time for 58M relations by **86.8%** and improving match accuracy.
-- Migrated legacy desktop tools to modern microservices-based CMS, streamlining editorial workflows.
-- Automated deployment and monitoring for 12 critical legacy backend services, boosting uptime and release efficiency.
-- Mentored teammates through knowledge sharing, code reviews, and pair programming.
+## 🎯 Professional Summary
+Senior Software Engineer with extensive experience in building scalable distributed systems and microservices architectures. Specialized in backend development with a strong focus on AWS, PHP/Symfony, and Java/Spring Boot ecosystems. Proven track record of optimizing systems and mentoring teams.
 
-**Technical Stack**:  
-`PHP`, `Symfony`, `Java`, `Spring Boot`, `AWS (Fargate, RDS, Lambda, SQS, SNS, S3)`, `Datadog`, `Swagger`, `PostgreSQL`, `MySQL`, `PHPUnit`, `JUnit`, `Docker`, `RabbitMQ`, `GitHub Actions`  
+## 🛠️ Technical Expertise
 
-**Functional Environment**:  
-`Microservices`, `Distributed Systems`, `Event-Driven Architecture`, `REST API`, `Monolith`, `CI/CD Pipelines`, `Serverless Computing`  
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</details>
 
+<details open>
+<summary><b>🚀 Frameworks & Technologies</b></summary>
+<br>
 
-### 🚀 **Travanto Ferienwohnungen GmbH**
-*Hamburg, Germany | Senior Software Developer*  
-**May 2019 – Apr 2022**  
-- Integrated APIs from major platforms (Airbnb, Booking.com, HomeAway), increasing reservations by **9%** with optimized real-time updates.
-- Revamped internal APIs, enhancing property availability and pricing management, achieving Premier Partner status with Booking.com.
-- Developed synchronization dashboards for 2K+ landlords and 30K properties.
-- Deployed a machine learning service for image classification, boosting content quality.
-- Streamlined CI/CD pipelines for 4 services, reducing deployment time.
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</details>
 
-**Technical Stack**:  
-`PHP`, `Go`, `Python`, `Laravel`, `Flask`, `GraphQL`, `Solr`, `Redis`, `PostgreSQL`, `Docker`, `AWS (ECS, RDS, S3)`, `Kubernetes`, `Swagger`  
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 
-**Functional Environment**:  
-`Linux Software`, `Microservices`, `REST API`, `AI Applications`, `Agile Practices`  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</details>
 
+## 💼 Professional Experience
 
-### 🚀 **ETS. Moli Technologies**
-*Bordj Bou Arreridj, Algeria | Software Engineer*  
-**Feb 2016 – Apr 2019**  
-- Created tailored e-commerce solutions, increasing sales for local businesses.
-- Designed *RadiologyOne*, Algeria’s first radiology exchange platform, a **semi-finalist** at MIT Enterprise Forum Pan Arab Competition.
-- Developed a connected gauge system for fuel monitoring in gas stations, winning the **Algeria National Innovation Prize**.
-- Integrated SAP HCM for SPA Condor Electronics, streamlining HR operations for 9K employees.
+### 🚀 **Senior Software Engineer @ Statista GmbH**
+<sub>Hamburg, Germany | May 2022 – Present</sub>
 
-**Technical Stack**:  
-`Python`, `PHP`, `C/C++`, `Flask`, `Android`, `MariaDB`, `Docker`, `SAP`  
+- 🎯 Achieved **86.8%** performance improvement in recommendation system processing
+- 🔄 Modernized legacy systems to microservices architecture
+- 🚀 Automated deployment for 12 critical backend services
+- 👥 Led technical mentorship initiatives
 
-**Functional Environment**:  
-`Linux Software`, `IoT`, `ERP Systems`, `REST APIs`, `Web and Desktop Applications`  
+### 🚀 **Senior Software Developer @ Travanto Ferienwohnungen GmbH**
+<sub>Hamburg, Germany | May 2019 – Apr 2022</sub>
 
+- 📈 Increased reservations by **9%** through platform API integrations
+- 🏆 Achieved Premier Partner status with Booking.com
+- 🤖 Implemented ML-based image classification system
+- 🔄 Enhanced CI/CD pipelines for multiple services
 
-### 🚀 **Freelancer**
-*Bordj Bou Arreridj, Algeria | Full Stack Developer*  
-**Mar 2008 – Jan 2016**  
-- Built a web-based Python interpreter for students, eliminating local installation hassles.
-- Designed and launched websites for local clients, boosting their online visibility.
-- Created automated Python tools, including web crawlers and a SQL injection scanner.
-- Managed a sports news website, enhancing UI/UX and optimizing SEO.
+### 🚀 **Software Engineer @ ETS. Moli Technologies**
+<sub>Bordj Bou Arreridj, Algeria | Feb 2016 – Apr 2019</sub>
 
-**Technical Stack**:  
-`Python`, `PHP`, `Flask`, `RestrictedPython`, `WordPress`, `HTML`, `CSS`, `JavaScript`  
+- 🏆 **MIT Enterprise Forum Pan Arab Competition** Semi-finalist with RadiologyOne
+- 🏅 Won **Algeria National Innovation Prize** for IoT fuel monitoring system
+- 💼 Successfully integrated SAP HCM for 9K+ employees
 
-___
-## 🎓 Education
+## 📚 Education & Research
 
-- **Master’s Degree – Computer Science**  
-  *Mohamed Boudiaf University of M'Sila, Algeria*  
-  *Oct 2013 – Jun 2015*  
-  [Published research](https://ieeexplore.ieee.org/document/7359576)  
+<details>
+<summary><b>🎓 Academic Qualifications</b></summary>
+<br>
 
-- **Bachelor’s Degree – Computer Science**  
-  *Mohamed Boudiaf University of M'Sila, Algeria*  
-  *Sep 2010 – Sep 2013*  
+- **Master's in Computer Science** - Mohamed Boudiaf University (2013-2015)
+  - [Published Research Paper](https://ieeexplore.ieee.org/document/7359576)
+- **Bachelor's in Computer Science** - Mohamed Boudiaf University (2010-2013)
+</details>
 
-***
 ## 🌐 Languages
 
-- **Arabic**: Native Proficiency  
-- **English**: C1 Advanced  
-- **French**: C1 Advanced  
-- **German**: A2 Elementary  
+- 🌟 Arabic (Native)
+- 🇬🇧 English (C1 Advanced)
+- 🇫🇷 French (C1 Advanced)
+- 🇩🇪 German (A2 Elementary)
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rouabas&show_icons=true&theme=radical)](https://github.com/rouabas)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rouabas&theme=radical)](https://github.com/rouabas)
+
+</div>
